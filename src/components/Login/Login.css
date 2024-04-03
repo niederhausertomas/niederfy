@@ -1,0 +1,24 @@
+.loginContainer{
+    background-color: rgb(22, 22, 22);
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+    color: white;
+   
+}
+
+.loginContainer img{
+    width: 100%;
+}
+
+.loginContainer h1{
+    font-size: xxx-large;
+    justify-content: center;
+}
+
+.loginContainer form button{
+    align-items: center;
+}
+
+
