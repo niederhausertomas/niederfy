@@ -19,7 +19,7 @@ const Login = () => {
         </form>
         <div className="mb-3">
             <button type="button" className="btn btn-outline-light w-100">
-                <Link to="/newUser">Create a new user</Link>
+                <Link to="../NewUser">Create a new user</Link>
             
             </button>
             <button type="button" className="btn btn-outline-light w-100">

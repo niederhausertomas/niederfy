@@ -11,9 +11,11 @@ function App() {
           <Routes>
             <Route path='/login' element={<Login/>} />
             <Route path='/home' element={<Home/>} />
-            <Route path='/newUser' element={<NewUser/>} />
+            <Route path='/NewUser' element={<NewUser/>} />
             <Route path='/sportsList' element={<SportsList/>} />
             <Route path='/sports/football' element={<Football/>} />
+            
+
 
 
 
